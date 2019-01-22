@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "at-activity-indicator": "../../npm/taro-ui/dist/weapp/components/activity-indicator/index",
+    "cm-cart": "../../components/cm-cart/index",
+    "cm-padding-height": "../../components/cm-padding-height/index",
+    "cm-price": "../../components/cm-price/index",
+    "at-button": "../../npm/taro-ui/dist/weapp/components/button/index"
+  },
+  "navigationBarTitleText": "购物车"
+}

@@ -1,0 +1,1 @@
+"use strict";var _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(o){return typeof o}:function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o};function isObject(o){var t=void 0===o?"undefined":_typeof(o);return null!=o&&("object"==t||"function"==t)}module.exports=isObject;

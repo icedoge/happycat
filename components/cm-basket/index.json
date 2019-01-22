@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "at-swipe-action": "../../npm/taro-ui/dist/weapp/components/swipe-action/index",
+    "cm-basket-item": "../cm-basket-item/index"
+  }
+}
